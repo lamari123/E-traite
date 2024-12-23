@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+.header {
+    background-color: #4B0082;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+.avantages, .contact {
+    margin: 20px 0;
+}
+
+h1, h2 {
+    color: #4B0082;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+a {
+    color: #4B0082;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
